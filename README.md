@@ -27,3 +27,5 @@
 
 ## 📈 Моя статистика GitHub
 <a href="http://www.github.com/flynntdev"><img src="https://github-readme-stats.vercel.app/api?username=flynntdev&show_icons=true&hide=issues,&count_private=true&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=1c1917&hide_border=true&show_icons=true" alt="flynntdev's GitHub stats" /></a>
+
+![Codewars](https://github.r2v.ch/codewars?user=FlynntDev&name=true&top_languages=true&stroke=%23b362ff&theme=purple_dark)
