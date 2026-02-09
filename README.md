@@ -6,14 +6,14 @@
 
 ###
 
-Привет ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) меня зовут Вячеслав
+Hello ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) my name is Vyacheslav.
 ================================================================================================================================
 
-## 🧑‍💻 Обо мне
-Я - Go-разработчик с опытом DevOps. Пишу на Go, потому что люблю, когда всё работает просто и быстро. Иногда даже код.
+## 🧑‍💻 About me
+I am a Go developer with DevOps experience. I write in Go because I like it when everything works simply and quickly. Sometimes even code.
 
 
-## 🚀 Навыки
+## 🚀 Skills
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="go logo"  />
   <img width="12" />
@@ -32,5 +32,5 @@
 
 
 
-## 📈 Моя статистика 
+## 📈 My statistics 
 ![Codewars](https://github.r2v.ch/codewars?user=FlynntDev&name=true&top_languages=true&stroke=%23b362ff&theme=purple_dark)
