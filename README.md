@@ -12,6 +12,8 @@ Hello ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-
 ## 🧑‍💻 About me
 I am a Go developer with DevOps experience. I write in Go because I like it when everything works simply and quickly. Sometimes even code.
 
+<img src="https://komarev.com/ghpvc/?username=FlynntDev&label=Profile%20views&color=007acc&style=plastic" alt="Profile views" />
+
 
 ## 🚀 Skills
 <div align="left">
