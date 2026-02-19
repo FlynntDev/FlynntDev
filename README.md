@@ -1,38 +1,39 @@
-<br clear="both">
+<div align="center">
+  <img height="180" width="360" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" />
+  <h1>Hello, I'm Vyacheslav</h1>
+  <p><i>Go Developer with DevOps Experience</i></p>
+</div>
+
+## About Me
+
+I'm a Go developer with DevOps experience. I write in Go because I like it when everything works simply and quickly — sometimes even the code.
 
 <div align="center">
-  <img height="300" width="600" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  />
+  <img src="https://komarev.com/ghpvc/?username=FlynntDev&label=Profile%20Views&color=667eea&style=for-the-badge" alt="Profile views" />
 </div>
 
-###
+## What I Do
 
-Hello ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) my name is Vyacheslav.
-================================================================================================================================
+- Build high‑performance services in Go
+- Automate processes with DevOps tools
+- Optimize system performance
+- Create Docker containers for applications
+- Set up monitoring via Grafana
 
-## 🧑‍💻 About me
-I am a Go developer with DevOps experience. I write in Go because I like it when everything works simply and quickly. Sometimes even code.
+## Key Skills
 
-<img src="https://komarev.com/ghpvc/?username=FlynntDev&label=Profile%20views&color=007acc&style=plastic" alt="Profile views" />
-
-
-## 🚀 Skills
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="go logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="40" alt="graphql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="40" alt="grafana logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" alt="gitlab logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+<div align="center">
+  <img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white&style=flat-square" alt="Go" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=flat-square" alt="Linux" />
+  <img src="https://img.shields.io/badge/GraphQL-E535AB?logo=graphql&logoColor=white&style=flat-square" alt="GraphQL" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat-square" alt="Docker" />
+  <img src="https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white&style=flat-square" alt="Grafana" />
+  <img src="https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=white&style=flat-square" alt="GitLab" />
+  <img src="https://img.shields.io/badge/PostgreSQL-47A248?logo=postgresql&logoColor=white&style=flat-square" alt="PostgreSQL" />
 </div>
 
+## My Statistics
 
-
-## 📈 My statistics 
-![Codewars](https://github.r2v.ch/codewars?user=FlynntDev&name=true&top_languages=true&stroke=%23b362ff&theme=purple_dark)
+<div align="center">
+  ![Codewars](https://github.r2v.ch/codewars?user=FlynntDev&name=true&top_languages=true&stroke=%23b362ff&theme=purple_dark)
+</div>
