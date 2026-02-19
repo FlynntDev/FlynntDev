@@ -34,6 +34,4 @@ I'm a Go developer with DevOps experience. I write in Go because I like it when 
 
 ## My Statistics
 
-<div align="center">
-  ![Codewars](https://github.r2v.ch/codewars?user=FlynntDev&name=true&top_languages=true&stroke=%23b362ff&theme=purple_dark)
-</div>
+![Codewars](https://github.r2v.ch/codewars?user=FlynntDev&name=true&top_languages=true&stroke=%23b362ff&theme=purple_dark)
