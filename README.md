@@ -12,13 +12,14 @@ I'm a Go developer with DevOps experience. I write in Go because I like it when 
   <img src="https://komarev.com/ghpvc/?username=FlynntDev&label=Profile%20Views&color=667eea&style=for-the-badge" alt="Profile views" />
 </div>
 
-## What I Do
+### What I Do
+- Build and maintain production-grade backend services in Go.
+- Design REST/gRPC APIs and scalable microservice architecture.
+- Automate delivery with CI/CD pipelines and Infrastructure as Code.
+- Containerize and deploy applications with Docker (and Kubernetes when needed).
+- Profile and optimize systems to reduce latency and infrastructure cost.
+- Set up observability with Prometheus + Grafana (metrics, logs, alerts).
 
-- Build high‑performance services in Go
-- Automate processes with DevOps tools
-- Optimize system performance
-- Create Docker containers for applications
-- Set up monitoring via Grafana
 
 ## Key Skills
 
